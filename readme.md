@@ -2,6 +2,6 @@
 
 The included files are associated with the 8DCR structure, specifically a beta1-adrenergic receptor complexed with dobutamine.
 
-We have applied a generic numbering system to the 8DCR protein, resulting in the file named "8DCR_protein_GPCRDB.pdb".
+Protein File: The protein structure is provided as "8DCR_protein.pdb".
 
-Additionally, the molecular structure of the bound dobutamine is provided in a *.mol2 format.
+Ligand File: The molecular structure of the bound dobutamine is available in a *.mol2 format.
